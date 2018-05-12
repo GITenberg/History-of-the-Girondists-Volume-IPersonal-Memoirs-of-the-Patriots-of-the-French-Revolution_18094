@@ -1,0 +1,42 @@
+_repo: History-of-the-Girondists-Volume-IPersonal-Memoirs-of-the-Patriots-of-the-French-Revolution_18094
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ryde, H. T. (Henry T.)
+    alias: Ryde, Henry T.
+    gutenberg_agent_id: '7803'
+    url: http://www.gutenberg.org/2009/agents/7803
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamartine, Alphonse de
+    aliases:
+    - Lamartine de Prat, Alphonse-Marie-Louis de
+    - Lamartine, Alphonse Marie Louis de
+    - De Lamartine, Alphonse
+    birthdate: 1790
+    deathdate: 1869
+    gutenberg_agent_id: '4781'
+    url: http://www.gutenberg.org/2009/agents/4781
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
+    - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
+description: ''
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcc 'DC'
+- !lcsh 'Girondists'
+title: 'History of the Girondists, Volume I
+
+  Personal Memoirs of the Patriots of the French Revolution'
+url: http://www.gutenberg.org/ebooks/18094
