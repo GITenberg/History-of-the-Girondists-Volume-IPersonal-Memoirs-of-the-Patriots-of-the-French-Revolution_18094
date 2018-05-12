@@ -24,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
     - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18094#History-of-the-Girondists-Volume-IPersonal-Memoirs-of-the-Patriots-of-the-French-Revolution
 gutenberg_issued: '2006-04-01'
 gutenberg_type: Text
 identifiers:
